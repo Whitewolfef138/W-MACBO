@@ -917,17 +917,6 @@ Please cite the paper when using W-MACBO, the benchmark, or the accompanying imp
 
 For comparisons against the literature baselines, please also cite the original sources listed above.
 
----
-
-## References
-
-1. E. Forootan, S. Mahmoudi, F. Khodadadi Aski, and A. Yaghmaei, “Memory-Augmented Circulation Barrier Control for Differential-Drive Navigation,” *IEEE Control Systems Letters*, 2026.
-2. S. Karaman and E. Frazzoli, “Optimal Kinodynamic Motion Planning Using Incremental Sampling-based Methods,” CDC, 2010.
-3. J. Huang, Z. Liu, J. Zeng, X. Chi, and H. Su, “Obstacle Avoidance for Unicycle-Modelled Mobile Robots with Time-Varying Control Barrier Functions,” IECON, 2023.
-4. O. Y. Ismael, M. Almaged, and A. I. Abdulla, “Nonlinear Model Predictive Control-based Collision Avoidance for Mobile Robot,” *Journal of Robotics and Control*, 2024.
-5. S. Liu, Y. Mao, and C. A. Belta, “Safety-Critical Planning and Control for Dynamic Obstacle Avoidance Using Control Barrier Functions,” ACC, 2025.
-6. Z. Gong, B. Li, and S. Herbert, “Reach-Avoid-Stabilize Using Admissible Control Sets,” CDC, 2025.
-7. M. Khaledi and B. Kiumarsi, “Obstacle Avoidance of Mobile Robots Based on Model Predictive Control with Dynamic Control Barrier Functions,” *European Journal of Control*, 2026.
 
 ---
 
