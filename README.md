@@ -4,7 +4,6 @@ This repository contains the simulation code and benchmark infrastructure for:
 
 > **Memory-Augmented Circulation Barrier Control for Differential-Drive Navigation**
 > Ehsan Forootan, Shervin Mahmoudi, Farbod Khodadadi Aski, and Abolfazl Yaghmaei
-> *IEEE Control Systems Letters*, 2026.
 
 The work introduces **Waypoint Memory-Augmented Circulation Barrier Optimization (W-MACBO)** for differential-drive robots navigating known, static environments with non-convex obstacles. The method separates route-level detour selection from local dynamically feasible control: a waypoint planner selects a collision-free route, a decaying memory records persistent waypoint-obstacle attraction, a circulation field biases motion around obstacles, and a constrained wheel-input optimization enforces safety and progress.
 
