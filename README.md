@@ -28,7 +28,6 @@ The accompanying codebase reproduces the simulation model, W-MACBO implementatio
 * [Important Implementation Notes](#important-implementation-notes)
 * [Reproducibility and Scientific Scope](#reproducibility-and-scientific-scope)
 * [Literature Baselines](#literature-baselines)
-* [Citation](#citation)
 * [References](#references)
 
 ---
@@ -896,25 +895,8 @@ The exact adaptation choices used in this repository are recorded in [`methods/s
 
 ---
 
-## Citation
 
-Please cite the paper when using W-MACBO, the benchmark, or the accompanying implementation.
-
-```bibtex
-@article{Forootan2026WMACBO,
-  author  = {
-    Ehsan Forootan and
-    Shervin Mahmoudi and
-    Farbod Khodadadi Aski and
-    Abolfazl Yaghmaei
-  },
-  title   = {Memory-Augmented Circulation Barrier Control for Differential-Drive Navigation},
-  journal = {IEEE Control Systems Letters},
-  year    = {2026}
-}
-```
-
-For comparisons against the literature baselines, please also cite the original sources listed above.
+For comparisons against the literature baselines, please also use the original source.
 
 
 ---
